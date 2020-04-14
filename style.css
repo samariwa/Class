@@ -1,0 +1,14 @@
+/*styles*/
+
+@/* TODO(you) : What is this doing to your page? */
+body{
+  font-family: : monospace;
+}
+
+main{
+	margin : 20px;
+}
+img{
+/*@TODO(you) : Modify size accordingly*/
+width : 40%;
+}
